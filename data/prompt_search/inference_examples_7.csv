@@ -1,0 +1,6 @@
+prompt_id,prompt,text,output,gt_emotions,pred_emotions
+7,Write all nouns describing the emotions in the following text,"Context is lost in the article, no way to know how it was asked or how the person was behaving.", Annoyance,['surprise'],['annoyance']
+7,Write all nouns describing the emotions in the following text,Yeah? I’ll believe it when the Packard plant is a bigger version of the Factory at franklin, Here are the nouns describing the emotions in the given text:,['pride'],[]
+7,Write all nouns describing the emotions in the following text,PAC man looks too fast," Anxiety, excitement",['admiration'],['excitement']
+7,Write all nouns describing the emotions in the following text,"Haha thanks, I'm not cool at all but that comment made my day! Genuinely made me smile. <3", Here are the nouns describing the emotions in the given text: 1. comment 2. day 3. smile,"['amusement', 'gratitude', 'joy']",[]
+7,Write all nouns describing the emotions in the following text,I isst thought y’all woooshed me but then I realized what subreddit I’m on, Here are the nouns describing the emotions in the text: 1. Stress 2. Anxiety 3. Surprise 4. Relief 5. Joy,['pride'],"['joy', 'relief', 'surprise']"
